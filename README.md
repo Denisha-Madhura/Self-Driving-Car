@@ -3,7 +3,7 @@
 This project is a personal recreation and learning experience based on the "Self-Driving Car with JavaScript Course" tutorial by Radu, available on the freeCodeCamp.org YouTube channel. The course teaches you how to build a self-driving car simulation from scratch, implementing all components without external libraries.
 
 # Project Demo
-[Screencast from 2025-09-09 22-16-14.webm](https://github.com/user-attachments/assets/fdc429fc-3654-49c0-9c6a-015d076a3ab2)
+  [Screencast from 2025-09-09 22-16-14.webm](https://github.com/user-attachments/assets/fdc429fc-3654-49c0-9c6a-015d076a3ab2)
 
 # Getting Started
 To run this project, simply open the index.html file in your preferred web browser. All the necessary HTML, CSS, and JavaScript are contained within that single file, so no additional steps are required.
